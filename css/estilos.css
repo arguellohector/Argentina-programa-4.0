@@ -38,4 +38,10 @@ border: 1px solid orange;
     color: lightgreen;
 }
 
-
+body {
+    background-color: yellowgreen;
+    color: antiquewhite;
+}
+#demo{
+    color: whitesmoke;
+}
